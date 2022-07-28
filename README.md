@@ -1,2 +1,2 @@
-# GeMSS_Based_Signature_Scheme
-GeMSS Based Signature Scheme
+# GeMSS Based Signature Scheme
+Source code for GeMSS-based ring signature scheme for RedGeMSS128 parameter set.
